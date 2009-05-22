@@ -1,0 +1,9 @@
+%p %v %t %n%m %w
+%t %n %v %c%m
+%N said "%P" %c! %e
+%v %n, not %W %n%m
+"%a %v %n %c%m" -%N
+RT @%n: "%P %A %v %c" %w
+RT @%n: "%A %v %c %e" %w %w
+@%n %s %p %v
+%s %s%m %p %v %c %c%m

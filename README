@@ -1,0 +1,11 @@
+AutoTweet
+
+CREATIVE COMMONS LICENSE BY-SA-NC 2.0
+(This means you can use if non-commercial and share/build upon with others with attribution)
+
+INSTALL
+
+  1. Rename config.inc.php.sample to config.inc.php
+  2. Edit config.inc.php with your Twitter information (username, password, etc.)
+  3. Set up cron job to run.
+  4. PROFIT (as long as you are non-commercial.

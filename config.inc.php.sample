@@ -1,0 +1,26 @@
+<?php
+
+ // Default email address for notifications. (**Required**)
+define(DEFAULT_EMAIL, '');
+
+ // For better chance of not having emails filtered as junk. (Optional)
+define(DEFAULT_REAL_NAME, '');
+
+// Emaill address for From/Reply-to (Optional -- will default to account/default email address)
+define(DEFAULT_FROM_EMAIL, '');
+
+// Language to use (folder name from languages/)
+define(DEFAULT_LANGUAGE, 'en-us');
+
+
+// Twitter account(s)...
+$twitter = array(
+  array(
+    'user' => '', // YOUR TWITTER USER NAME
+    'pass' => '', // YOUR TWITTER PASSWORD
+    'email' => '', // ADDRESS FOR NOTES (defaults to DEFAULT_EMAIL)
+    'name' => '', // NAME FOR NOTES (defaults to DEFAULT_REAL_NAME)
+  ),
+);
+ 
+?>
